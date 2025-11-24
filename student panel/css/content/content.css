@@ -1,0 +1,22 @@
+#backbtnDiv{
+
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+#backbtn{
+    border-radius: 0px;
+    border-top-left-radius: 25px;
+}
+.folderImg, .subfolderImg{
+    width: 150px;
+    height: 100px;
+    /* box-shadow: 5px 5px 5px lightblue; */
+}
+.folderImg:hover{
+    width: 152px;
+    height: 102px;
+}
+.subfolderImg:hover{
+    width: 152px;
+    height: 102px;
+}

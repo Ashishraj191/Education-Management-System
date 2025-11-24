@@ -1,0 +1,45 @@
+
+#btn1,#btn2,#question_btn1,#question_btn2{
+    border-radius: 0ch;
+    margin: 0px;
+}
+/* #btn1:hover,#btn2:hover{
+    margin: 0px;
+    border-top-left-radius: 10px;
+    letter-spacing: 0ch;
+    font-size: 1.2;
+} */
+#btn1,#question_btn1{
+    border-top-left-radius: 10px;
+    background-color: #fff;
+}
+#btn12-div,#question_btn12-div{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#addStudentForm,#addQuestionForm{
+    margin: 5px;
+    padding: 5px;
+}
+
+#inputDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#addRemoveBtnDiv{
+    padding: 5px;
+    padding-top: 20px;
+    /* padding-bottom: 0px; */
+}
+#addInputTagBtn{
+    color: blue;
+}
+#removeInputTagBtn{
+    margin: 5px;
+    padding: 5px;
+    color: red;
+}
